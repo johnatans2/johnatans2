@@ -6,19 +6,19 @@ Minha jornada começou com HTML5 e CSS3, mas hoje tenho conhecimentos sólidos e
 
 Aqui você encontrará meus projetos e contribuições, frutos de muita dedicação e paixão pelo que faço. Vamos colaborar e criar algo incrível juntos!
 
-## 🚀 Tecnologias que domino:
+## 🚀 Conceitos que domino:
 
-- **HTML5**
-- **CSS3**
-- **Bootstrap**
-- **JavaScript**
-- **Python**
-- **Figma**
-- **Modelagem de Dados**
-- **Levantamento de Requisitos**
-- **Análise de Requisitos**
-- **Metodologias Ágeis**
-- **Framework Scrum**
+- **HTML5** 🌐
+- **CSS3** 🎨
+- **Bootstrap** 🚀
+- **JavaScript** 📜
+- **Python** 🐍
+- **Figma** 🎨
+- **Modelagem de Dados** 📊
+- **Levantamento de Requisitos** 📋
+- **Análise de Requisitos** 🔍
+- **Metodologias Ágeis** ⚡
+- **Framework Scrum** 🌀
 
 ---
 
