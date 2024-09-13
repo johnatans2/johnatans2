@@ -29,22 +29,22 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnatans2&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatans2&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
 </p>
 
 ---
 
 ### 🚀 Minhas Contribuições:
 
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical)
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=johnatans2&theme=radical)
 
 ---
 
 ### 📬 Entre em Contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnatans2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnatans2)
 
 ---
 
@@ -57,5 +57,5 @@
 
 **Obrigado por visitar meu perfil!**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=johnatans2.johnatans2)
 
